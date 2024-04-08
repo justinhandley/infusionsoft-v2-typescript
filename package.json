@@ -2,7 +2,11 @@
   "name": "infusionsoft-v2-typescript",
   "version": "1.0.0",
   "description": "OpenAPI client for Infusionsoft / Typescript",
-  "author": "OpenAPI-Generator Contributors",
+  "author": "Pirate & Fox LLC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justinhandley/infusionsoft-v2-typescript.git"
+  },
   "keywords": [
     "axios",
     "typescript",
